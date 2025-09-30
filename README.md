@@ -20,4 +20,4 @@ from nilmtk.dataset_converters import convert_redd
 convert_redd('./redd-lowfreq', './redd-lowfreq.h5')
 ```
 
-The converted H5 file is also available on the release page.
+The converted H5 file is also available on the [release page](https://github.com/wuhanstudio/redd-lowfreq/releases).
